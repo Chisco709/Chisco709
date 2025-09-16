@@ -1,4 +1,4 @@
-# Hi, I'm Juanjo 👋
+ # Hi, I'm Juanjo 👋
 
 I'm a software programming student from Colombia.
 I enjoy learning step by step, and right now I'm exploring:
@@ -9,6 +9,9 @@ I enjoy learning step by step, and right now I'm exploring:
 
 I also love  books, and improving my memory skills.
 Here I share small projects as I keep growing.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Chisco709=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
